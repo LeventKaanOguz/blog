@@ -1,0 +1,4 @@
+[submodule "leventkaanoguzblog/public"]
+	path = leventkaanoguzblog/public
+	url = https://github.com/LeventKaanOguz/LeventKaanOguz.github.io.git
+	branch = main
