@@ -1,17 +1,17 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'Linear Algebra Journey - Part 1: Introduction'
 subtitle: ""
-date: {{ .Date }}
+date: 2023-12-16T19:41:00+03:00
 lastmod: 2020-03-04T15:58:26+08:00
 draft: true
 author: ""
 authorLink: ""
-description: ""
+description: "My Rigorous Linear Algebra Notes"
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: ["Linear Algebra"]
+categories: ["Linear Algebra Journey"]
 
 featuredImage: ""
 featuredImagePreview: ""

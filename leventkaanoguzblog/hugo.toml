@@ -94,7 +94,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Levent Kaan Oğuz"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -207,12 +207,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "LeventKaanOguz"
+    Linkedin = "leventkaanoguz"
+    Twitter = ""
+    Instagram = "leventkaanoguz"
+    Facebook = "kaan.oguz.925602"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -222,7 +222,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Quora = ""
     Keybase = ""
     Pinterest = ""
-    Reddit = ""
+    Reddit = "levent_kaan_oguz"
     Codepen = ""
     FreeCodeCamp = ""
     Bitbucket = ""
@@ -269,18 +269,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = ""
+    Discord = "618850175917752330"
     DiscordInvite = ""
     Lichess = ""
-    ORCID = ""
+    ORCID = "0000-0001-7985-2721"
     Pleroma = ""
-    Kaggle = ""
+    Kaggle = "leventkaanouz"
     MediaWiki= ""
     Plume = ""
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = "kaan.oguz@metu.edu.tr"
     RSS = true # 
 
   #  Page global config
